@@ -1,4 +1,2 @@
-for x in range(5):
- print("Hello World")
-
-
+a="Hello World"
+print(a)
